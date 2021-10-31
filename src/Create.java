@@ -21,7 +21,7 @@ public class Create extends JFrame implements ActionListener {
 
 
     Create(){
-        setTitle("Template Method | Social Media Posting");
+        setTitle("Penambahan Stock");
         setBounds(300, 90, 400, 300);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
